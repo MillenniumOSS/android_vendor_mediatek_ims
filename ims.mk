@@ -21,3 +21,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGE += \
     libui_shim
 
+# MTK IMS Overlays
+PRODUCT_PACKAGES += \
+    mtk-ims \
+    mtk-ims-telephony
