@@ -2,4 +2,6 @@
 <resources>
 	<string name="config_ims_mmtel_package" translatable="false">com.mediatek.ims</string>
 	<string name="config_ims_rcs_package" translatable="false">com.android.service.ims</string>
+	<bool name="config_support_rtt">true</bool>
+	<bool name="config_support_simless_emergency_rtt">true</bool>
 </resources>
