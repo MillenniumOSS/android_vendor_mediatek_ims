@@ -5,6 +5,9 @@
 
 IMS_VNDR_PATH := vendor/mediatek/ims
 
+# Inherit IMS vendor
+$(call inherit-product, vendor/mediatek/ims/ims-vendor.mk)
+
 # Permissions
 PRODUCT_COPY_FILES += \
     $(IMS_VNDR_PATH)/configs/permissions/privapp-permissions-com.mediatek.ims.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-com.mediatek.ims.xml \
