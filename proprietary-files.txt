@@ -27,4 +27,4 @@ system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 -system_ext/framework/mediatek-telecom-common.jar|247f6c23515d7336a857a749eba69ac63d4212f3
 -system_ext/framework/mediatek-telephony-base.jar|0946cb5cf1ebfc5c9a78961ef6ffc6514be1baa7
 -system_ext/framework/mediatek-telephony-common.jar|0f66f308e4c70d47e6ac6bf70a2d1bca916d8f81
--system_ext/priv-app/ImsService/ImsService.apk|97698316e73eb466cb0f04b70ade8fd05e8bc184
+-system_ext/priv-app/ImsService/ImsService.apk|2817833cc11a0be3fece50e2ccc819718a052dba
