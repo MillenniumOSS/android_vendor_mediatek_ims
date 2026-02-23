@@ -25,7 +25,7 @@ system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 -system_ext/framework/mediatek-telecom-common.jar|247f6c23515d7336a857a749eba69ac63d4212f3
 -system_ext/framework/mediatek-telephony-base.jar|0946cb5cf1ebfc5c9a78961ef6ffc6514be1baa7
 -system_ext/framework/mediatek-telephony-common.jar|0f66f308e4c70d47e6ac6bf70a2d1bca916d8f81
--system_ext/priv-app/ImsService/ImsService.apk|5f6e2be8e87064692064bb401e475365d78c6c95
+-system_ext/priv-app/ImsService/ImsService.apk|024478b20fdd11ea7a12c070f50813641b64fc20
 
 # IMS (MtkGbaService) - from plato OS2.0.202.0.VLQMIXM
 -system_ext/priv-app/MtkGbaService/MtkGbaService.apk|e5d9e8a04c4dd089bd131fdc85352b7686674d6e
