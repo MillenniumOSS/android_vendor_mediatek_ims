@@ -19,15 +19,13 @@ system_ext/lib64/vendor.mediatek.hardware.videotelephony-V1-ndk.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 
 # IMS (ImsService & frameworks) - from ADVAN_6781_S34NF2_V5.0_20250703
--system_ext/framework/mediatek-common.jar|b4f57c8f65b92d8b65074911b626559107764bb5
--system_ext/framework/mediatek-framework.jar|5a2e534f41ffc0b1206bde44df628a10c470773a
 -system_ext/framework/mediatek-ims-base.jar|a6f7ae937de5b9c25e41af8c15db2717a31a6e97
 -system_ext/framework/mediatek-ims-common.jar|163657f0dea57218c55fc758fefa6eecf2edb8f6
 -system_ext/framework/mediatek-ims-extension-plugin.jar|4562720d65136b189d661f248fd3170a749cada3
 -system_ext/framework/mediatek-telecom-common.jar|247f6c23515d7336a857a749eba69ac63d4212f3
 -system_ext/framework/mediatek-telephony-base.jar|0946cb5cf1ebfc5c9a78961ef6ffc6514be1baa7
 -system_ext/framework/mediatek-telephony-common.jar|0f66f308e4c70d47e6ac6bf70a2d1bca916d8f81
--system_ext/priv-app/ImsService/ImsService.apk|2817833cc11a0be3fece50e2ccc819718a052dba
+-system_ext/priv-app/ImsService/ImsService.apk|5f6e2be8e87064692064bb401e475365d78c6c95
 
 # IMS (MtkGbaService) - from plato OS2.0.202.0.VLQMIXM
 -system_ext/priv-app/MtkGbaService/MtkGbaService.apk|e5d9e8a04c4dd089bd131fdc85352b7686674d6e
