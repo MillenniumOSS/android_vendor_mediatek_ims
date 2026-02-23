@@ -10,6 +10,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libcomutils \
+    libimsma \
     libimsma_adapt \
     libimsma_rtp \
     libimsma_socketwrapper \
@@ -17,7 +18,6 @@ PRODUCT_PACKAGES += \
     libmtk_vt_wrapper \
     libsignal \
     libsink-mtk \
-    libsink \
     libsource \
     libvcodec_cap \
     libvcodec_capenc \
