@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     libsource \
     libvcodec_cap \
     libvcodec_capenc \
-    libvsim-adaptor-client \
     libvt_avsync \
     vendor.mediatek.hardware.videotelephony-V1-ndk \
     vendor.mediatek.hardware.videotelephony@1.0 \
