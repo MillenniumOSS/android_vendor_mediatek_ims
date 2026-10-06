@@ -29,14 +29,10 @@ PRODUCT_PACKAGES += \
     MtkGbaService \
     MtkTelephonyAssist \
     mediatek-ims-base \
-    mediatek-ims-common \
     mediatek-ims-extension-plugin \
-    mediatek-telecom-common \
     mediatek-telephony-base \
     vtservice
 
 PRODUCT_BOOT_JARS += \
     system_ext:mediatek-ims-base \
-    system_ext:mediatek-ims-common \
-    system_ext:mediatek-telecom-common \
     system_ext:mediatek-telephony-base
