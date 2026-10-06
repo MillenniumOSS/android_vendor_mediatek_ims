@@ -9,6 +9,7 @@ IMS_VNDR_PATH := vendor/mediatek/ims
 $(call inherit-product, vendor/mediatek/ims/ims-vendor.mk)
 
 # MediaTek Frameworks
+$(call inherit-product, hardware/lineage/compat/frameworks/compat.mk)
 $(call inherit-product, hardware/mediatek/frameworks/mediatek-frameworks.mk)
 
 # Permissions
